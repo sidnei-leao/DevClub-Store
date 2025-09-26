@@ -1,6 +1,7 @@
 <div align="center">
-  <h1 style="color:#00f7ff;">🚀 DevClub Store</h1>
+  <h1 src:https://github.com/sidnei-leao/DevClub-Store/blob/main/assets/DevClub%20Sore.png?raw=true">🚀 DevClub Store</h1>
 </div>
+
 </div>
 <br>
 <br>

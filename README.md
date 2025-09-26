@@ -1,4 +1,6 @@
-<h1 style:#00f7ff>DevClub Store</h1>
+<div align= center>
+    <h1>Dev-Burger</h1>
+</div>
 
 </div>
 <br>

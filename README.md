@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/sidnei-leao/DevClub-Store/blob/main/assets/DevClub%20Sore.png?raw=true" alt="DevClub Store">
-</p>
+<h1 style:#00f7ff>DevClub Store</h1>
 
 </div>
 <br>

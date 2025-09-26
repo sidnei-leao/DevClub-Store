@@ -1,5 +1,5 @@
 <div align= center>
-    <h1>DevClub Store</h1>
+    <h1 style="color:#00f7ff;">DevClub Store</h1>
 </div>
 <br>
 <br>

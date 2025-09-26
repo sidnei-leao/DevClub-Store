@@ -15,6 +15,8 @@
  
 <h2>O projeto foi feito com CSS moderno, utilizando:
     <br>
+    <br>
+    <br>
 
 -Google Fonts para tipografia personalizada.
 
@@ -29,9 +31,7 @@
 -Estrutura de carrossel/slider com setas e indicadores.
 <br>
 
- O que aprendi
-
-Com este projeto aprendi a:
+ O que aprendi Com este projeto aprendi a:
 
 -Criar layouts mais organizados usando Flexbox.
 

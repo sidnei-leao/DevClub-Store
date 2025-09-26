@@ -1,11 +1,6 @@
 <div align="center">
-  <h1 style="
-    background: linear-gradient(90deg, #00f7ff, #0066ff);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-  ">
-    DevClub Store
-  </h1>
+  <h1 style="color:#00f7ff;">🚀 DevClub Store</h1>
+</div>
 </div>
 <br>
 <br>

@@ -34,7 +34,7 @@
 <br>
 
 
- O que aprendi Com este projeto aprendi a:
+ Com este projeto aprendi a:
  <br>
  <br>
 

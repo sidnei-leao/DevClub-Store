@@ -14,6 +14,7 @@
 </div>
  
 <h2>O projeto foi feito com CSS moderno, utilizando:
+    <br>
 
 -Google Fonts para tipografia personalizada.
 
@@ -26,8 +27,9 @@
 -Transições e animações para movimentos e brilho.
 
 -Estrutura de carrossel/slider com setas e indicadores.
+<br>
 
-📚 O que aprendi
+ O que aprendi
 
 Com este projeto aprendi a:
 

@@ -16,4 +16,4 @@
 <h2>Neste projeto aprendi como ultilizar o map, reduce e o filter</h2>
 <img src="https://github.com/sidnei-leao/DevClub-Store/blob/main/assets/Captura%20de%20tela%202025-09-26%20095902%20Apple1.png?raw=true">
 <img src="https://github.com/sidnei-leao/DevClub-Store/blob/main/assets/Captura%20de%20tela%202025-09-26%20100003%20Apple2.png?raw=true">
-<img src="">
+<img src="https://github.com/sidnei-leao/DevClub-Store/blob/main/assets/Captura%20de%20tela%202025-09-26%20100111%20Apple3.png?raw=true">
